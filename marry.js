@@ -96,3 +96,4 @@ let filter = m => m.author.id === spouse.id;
       }
   }
       }
+}
